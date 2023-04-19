@@ -11,7 +11,7 @@ PYTHON / DJANGO / REACT / JS / HTML / CSS
 
 
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/github/red" alt='github' height='40' />](https://github.com/https://github.com/Tsveti1103)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/github/red" alt='github' height='40' />](https://github.com/Tsveti1103)
 
 
 
