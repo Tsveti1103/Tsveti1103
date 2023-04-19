@@ -13,7 +13,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=css,)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
-- [![My Skills]([https://skillicons.dev/icons?i=docker](https://cdn.simpleicons.org/django/red),)]
+- [![My Skills]([https://skillicons.dev/icons?i=django,](https://cdn.simpleicons.org/django/red),)]
 
 PYTHON / DJANGO / REACT / JS / HTML / CSS
 
