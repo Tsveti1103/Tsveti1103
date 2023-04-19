@@ -1,6 +1,7 @@
 # Tsvetelina Stoyanova
 ## Junior Python and JS developer
-![Junior Python and JS developer](https://github.com/Tsveti1103)
+
+<img src="/FullStack.png" border-radius="1rem" alt="Goal map"/>
 
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning React and Django 
