@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-[!Python, Django, Postgres, Docker (https://skillicons.dev/icons?i=py,django,postgres,docker)](https://github.com/Tsveti1103/DogLife)
+[![Python Django Postgres Docker](https://skillicons.dev/icons?i=py,django,postgres,docker)](https://github.com/Tsveti1103/DogLife)
 
-[![JS](https://skillicons.dev/icons?i=js,react,html,css)](https://github.com/Tsveti1103/Fear)
+[![JS React HTML CSS](https://skillicons.dev/icons?i=js,react,html,css)](https://github.com/Tsveti1103/Fear)
 
 
 
@@ -18,9 +18,9 @@
 
 
 ### Contacts:
-[<img height="32" width="32" src="https://cdn.simpleicons.org/github/red" alt='github' height='40' />](https://github.com/Tsveti1103)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/red" alt='github' height='40' />](https://www.linkedin.com/in/tsvetelinastoyanovats//)
-<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" alt='github' height='40' /> -  cvstoqnova@gmail.com
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/Tsveti1103)
+[![github](https://skillicons.dev/icons?i=linkedin)]([https://github.com/Tsveti1103](https://www.linkedin.com/in/tsvetelinastoyanovats//))
+<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" alt='Gmail' /> -  cvstoqnova@gmail.com
 
 
 ### Statistics
@@ -28,5 +28,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsveti1103&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tsveti1103)  
+
 
