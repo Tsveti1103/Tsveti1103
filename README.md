@@ -6,21 +6,20 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-- [![My Skills](https://skillicons.dev/icons?i=js,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=py,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=html,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=css,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
-
-PYTHON / DJANGO / REACT / JS / HTML / CSS
+[![JS](https://skillicons.dev/icons?i=js,)]
+[![React](https://skillicons.dev/icons?i=react,)]
+[![Python](https://skillicons.dev/icons?i=py,)]
+[![Django](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html,)](https://skillicons.dev)
+[![SCC](https://skillicons.dev/icons?i=css,)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
 
 
 
 
-### Contacts 
+
+### Contacts:
 [<img height="32" width="32" src="https://cdn.simpleicons.org/github/red" alt='github' height='40' />](https://github.com/Tsveti1103)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/red" alt='github' height='40' />](https://www.linkedin.com/in/tsvetelinastoyanovats//)
 <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" alt='github' height='40' /> -  cvstoqnova@gmail.com
