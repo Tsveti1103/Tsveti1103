@@ -9,7 +9,10 @@ PYTHON / DJANGO / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning React and Django 
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" alt="github" />
+
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/github/red" alt='github' height='40' />](https://github.com/https://github.com/Tsveti1103)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsveti1103)](https://github.com/anuraghazra/github-readme-stats)
