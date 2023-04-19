@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-[![Python, Django, Postgres, Docker]](https://github.com/Tsveti1103/DogLife)
+[!Python, Django, Postgres, Docker (https://skillicons.dev/icons?i=py,django,postgres,docker)](https://github.com/Tsveti1103/DogLife)
 
 [![JS](https://skillicons.dev/icons?i=js,react,html,css)](https://github.com/Tsveti1103/Fear)
 
