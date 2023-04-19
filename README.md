@@ -28,5 +28,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsveti1103&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Tsveti1103)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tsveti1103)  
 
