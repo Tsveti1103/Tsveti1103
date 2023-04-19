@@ -6,7 +6,15 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/red" alt='github' height='40' />
+- [![My Skills](https://skillicons.dev/icons?i=js,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=py,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=css,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+- [![My Skills]([https://skillicons.dev/icons?i=docker](https://cdn.simpleicons.org/django/red),)]
+
 PYTHON / DJANGO / REACT / JS / HTML / CSS
 
 
