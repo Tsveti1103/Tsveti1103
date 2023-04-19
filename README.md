@@ -6,15 +6,12 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-[<img scr="https://skillicons.dev/icons?i=js" alt="JS"/>](https://github.com/Tsveti1103/Fear)
-[![JS](https://skillicons.dev/icons?i=js,)](https://github.com/Tsveti1103/Fear)
-[![React](https://skillicons.dev/icons?i=react,)](https://github.com/Tsveti1103/Fear)
-[![Python](https://skillicons.dev/icons?i=py,)](https://github.com/Tsveti1103/DogLife)
-[![Django](https://skillicons.dev/icons?i=django,)](https://github.com/Tsveti1103/DogLife)
-[![HTML](https://skillicons.dev/icons?i=html,)](https://github.com/Tsveti1103/Fear)
-[![SCC](https://skillicons.dev/icons?i=css,)](https://github.com/Tsveti1103/Fear)
-[![Postgres](https://skillicons.dev/icons?i=postgres,)](https://github.com/Tsveti1103/DogLife)
-![Docker](https://skillicons.dev/icons?i=docker,)
+[![Python](https://skillicons.dev/icons?i=py,django,postgres,docker)](https://github.com/Tsveti1103/DogLife)
+
+[![JS](https://skillicons.dev/icons?i=js,react,html,css)](https://github.com/Tsveti1103/Fear)
+
+
+
 
 
 
