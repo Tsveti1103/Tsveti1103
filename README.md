@@ -3,8 +3,10 @@
 
 <img src="/FullStack.png" border-radius="1rem" alt="Goal map"/>
 
+### About me: 
 - 🔭 I’m currently working on personal projects 
-- 🌱 I’m currently learning React and Django 
+- 🌱 I’m currently learning React and Django
+- :globe_with_meridians: I am looking for a job where I can develop my knowledge of Python and JS
 
 ### Skills: 
 [![Python Django Postgres Docker](https://skillicons.dev/icons?i=py,django,postgres,docker)](https://github.com/Tsveti1103/DogLife)
