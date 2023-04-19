@@ -13,7 +13,7 @@ PYTHON / DJANGO / REACT / JS / HTML / CSS
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/github/red" alt='github' height='40' />](https://github.com/Tsveti1103)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/red" alt='github' height='40' />](https://www.linkedin.com/in/tsvetelinastoyanovats//)
-
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" alt='github' height='40' />](cvstoqnova@gmail.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsveti1103)](https://github.com/anuraghazra/github-readme-stats)
