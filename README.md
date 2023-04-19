@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-![JS](https://skillicons.dev/icons?i=js,)
-![React](https://skillicons.dev/icons?i=react,)
-![Python](https://skillicons.dev/icons?i=py,)
-[![Django](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html,)](https://skillicons.dev)
-[![SCC](https://skillicons.dev/icons?i=css,)](https://skillicons.dev)
-[![Postgres](https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js,)](https://github.com/Tsveti1103/Fear)
+[![React](https://skillicons.dev/icons?i=react,)](https://github.com/Tsveti1103/Fear)
+[![Python](https://skillicons.dev/icons?i=py,)](https://github.com/Tsveti1103/DogLife)
+[![Django](https://skillicons.dev/icons?i=django,)](https://github.com/Tsveti1103/DogLife)
+[![HTML](https://skillicons.dev/icons?i=html,)](https://github.com/Tsveti1103/Fear)
+[![SCC](https://skillicons.dev/icons?i=css,)](https://github.com/Tsveti1103/Fear)
+[![Postgres](https://skillicons.dev/icons?i=postgres,)](https://github.com/Tsveti1103/DogLife)
+![Docker](https://skillicons.dev/icons?i=docker,)
 
 
 
