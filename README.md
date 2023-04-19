@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning React and Django 
 
 ### Skills: 
-[![JS](https://skillicons.dev/icons?i=js,)]
-[![React](https://skillicons.dev/icons?i=react,)]
-[![Python](https://skillicons.dev/icons?i=py,)]
+![JS](https://skillicons.dev/icons?i=js,)
+![React](https://skillicons.dev/icons?i=react,)
+![Python](https://skillicons.dev/icons?i=py,)
 [![Django](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html,)](https://skillicons.dev)
 [![SCC](https://skillicons.dev/icons?i=css,)](https://skillicons.dev)
