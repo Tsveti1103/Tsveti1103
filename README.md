@@ -10,7 +10,7 @@ PYTHON / DJANGO / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React and Django 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg/white' alt='github' height='40'>](https://github.com/https://github.com/Tsveti1103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg/white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tsvetelinastoyanovats//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg/white' alt='gmail' height='40'>](cvstoqnova@gmail.com)  
+[<img src='https://cdn.simpleicons.org/github.svg/white' alt='github' height='40'>](https://github.com/https://github.com/Tsveti1103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg/red' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tsvetelinastoyanovats//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg/white' alt='gmail' height='40'>](cvstoqnova@gmail.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsveti1103)](https://github.com/anuraghazra/github-readme-stats)
 
