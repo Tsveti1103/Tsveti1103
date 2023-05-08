@@ -13,6 +13,8 @@
 
 [![JS React HTML CSS](https://skillicons.dev/icons?i=js,react,html,css)](https://github.com/Tsveti1103/Fear)
 
+[![JS Git Github Heroku Firebase](https://skillicons.dev/icons?i=git,github,heroku,firebase)](https://github.com/Tsveti1103/Fear)
+
 
 
 
