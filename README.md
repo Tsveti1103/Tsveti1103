@@ -17,13 +17,8 @@
 ### Contacts:
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/Tsveti1103)
 [![github](https://skillicons.dev/icons?i=linkedin)]([https://github.com/Tsveti1103](https://www.linkedin.com/in/tsvetelinastoyanovats//))
-<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" alt='Gmail' /> -  cvstoqnova@gmail.com
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:cvstoqnova@gmail.com)
 
-
-### Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsveti1103)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsveti1103&show_icons=true)  
 
 
 
