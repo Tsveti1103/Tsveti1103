@@ -1,22 +1,14 @@
 # Tsvetelina Stoyanova
-## Junior Python and JS developer
+## TS/React developer
 
-<img src="/FullStack.png" border-radius="1rem" alt="Goal map"/>
-
-### About me: 
-- 🔭 I’m currently working on personal projects 
-- 🌱 I’m currently learning React and Django
-- :globe_with_meridians: I am looking for a job where I can develop my knowledge of Python and JS
 
 ### Skills: 
+
+[![TS JS React HTML CSS TW](https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind)](https://github.com/Tsveti1103/Fear)
+
+[![Git Github](https://skillicons.dev/icons?i=git,github)](https://github.com/Tsveti1103/Fear)
+
 [![Python Django Postgres Docker](https://skillicons.dev/icons?i=py,django,postgres,docker)](https://github.com/Tsveti1103/DogLife)
-
-[![JS React HTML CSS](https://skillicons.dev/icons?i=js,react,html,css)](https://github.com/Tsveti1103/Fear)
-
-[![JS Git Github Heroku Firebase](https://skillicons.dev/icons?i=git,github,heroku,firebase)](https://github.com/Tsveti1103/Fear)
-
-
-
 
 
 
